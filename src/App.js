@@ -3,7 +3,10 @@ import WebNavigator from '../src/Navigator/WebNavigator';
 
 function App() {
   return (
-    <WebNavigator />
+    <div>
+
+      <WebNavigator />
+    </div>
   )
 }
 
