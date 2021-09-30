@@ -2,7 +2,7 @@
 
 # Problem Statement 
 
-This repository contains the implementation of " ## UNEARTH AND SERVE-Health and Education Support System in Rural areas " by combining the techniques of Machine Learning and Web Application.
+This repository contains the implementation of " **UNEARTH AND SERVE-Health and Education Support System in Rural areas** " by combining the techniques of Machine Learning and Web Application.
 
 # Outline of the project
 
