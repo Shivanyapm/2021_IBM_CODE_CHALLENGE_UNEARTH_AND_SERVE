@@ -28,6 +28,6 @@ Future scope: Implement crowd funding to help needy persons as early as possible
 
 # Architecture
 
-![This is an image](https://github.com/Shivanyapm/
-2021_IBM_CODE_CHALLENGE_UNEARTH_AND_SERVE/blob/master/src/assets/images/a.jpg?raw=true)
+# User Flow
+
  
