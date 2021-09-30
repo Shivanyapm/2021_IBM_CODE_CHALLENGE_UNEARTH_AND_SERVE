@@ -31,7 +31,6 @@ The needy persons will be intimated through the Person of Contact.
 Future scope: Implement crowd funding to help needy persons as early as possible especially those who are suffering due to health issues. Transparency of crowd funding can be made sure by using a generic block chain framework.
 
 # Architecture
-
+![](src/assets/images/a.JPG)
 # User Flow
-
- 
+![](src/assets/images/u.JPG)
