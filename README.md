@@ -1,6 +1,10 @@
-# IBM-HACKATHON-SEPTEMBER-2021
+# 2021_IBM_Code_Challenge_Web App for health and education facilities in Rural area - "Unearth and Serve"
 
-# Problem Statement 
+
+## List of Contributors ##
+
+
+## Problem Statement 
 
 This repository contains the implementation of " **UNEARTH AND SERVE-Health and Education Support System in Rural areas** " by combining the techniques of Machine Learning and Web Application.
 
@@ -27,7 +31,7 @@ The needy persons will be intimated through the Person of Contact.
 Future scope: Implement crowd funding to help needy persons as early as possible especially those who are suffering due to health issues. Transparency of crowd funding can be made sure by using a generic block chain framework.
 
 # Architecture
-![](src/assets/images/a.JPG)
+
 # User Flow
-![](src/assets/images/u.JPG)
+
  
