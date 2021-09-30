@@ -1,0 +1,28 @@
+.footer {
+  height: 120px;
+  background-color: rgb(56, 56, 56);
+  padding-top: 20px;
+  box-shadow: 2px 2px 2px 2px rgb(180, 179, 179);
+  color: white;
+  font-size: 12px;
+  align-items: center;
+  text-align: center;
+  margin-top: 45px;
+}
+.svg-inline--fa {
+  color: rgb(255, 255, 255);
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+#copy {
+  width: 10px;
+  height: 10px;
+  color: rgb(155, 155, 155);
+  margin-right: 5px;
+  margin-bottom: 3px;
+}
+.footersub {
+  color: rgb(107, 107, 107);
+}

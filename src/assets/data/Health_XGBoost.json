@@ -1,0 +1,4892 @@
+[
+ {
+   "Aadhar_id": 199000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 299000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 499000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 9000,
+   "Gender": 1,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 114000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 995000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3200,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4200,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 4400,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4400,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 994000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 7000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 241000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 30000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 281000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3400,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 291000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 301000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 311000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 321000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4700,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 331000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4850,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 341000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 351000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4670,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 361000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4820,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 371000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3200,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 491000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4563,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 501000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 511000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3800,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 521000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 531000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 534000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 551000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 561000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 571000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 581000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 134000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 1200,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 601000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4200,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 611000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4250,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 661000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 671000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2800,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 681000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 701000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 711000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 721000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 731000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 741000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 771000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 735000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3211,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 121000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3260,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4987,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4658,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4325,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 274000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4650,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1320,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1650,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 277000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1950,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2320,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2200,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 801000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4987,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 802000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4658,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 813000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 801000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 815000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 168000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3800,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 178000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 818000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4560,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 578000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 802000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3200,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 802000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 384000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 803000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 826000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 806000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 806000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 827000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4200,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 279000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 288000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 866000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4150,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4630,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 1,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3200,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 808000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 811000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 829000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 829000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 829000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4630,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 829000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 822000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10800,
+   "Gender": 0,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 826000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 827000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 829000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 823000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 823000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 823000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 823000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 823000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 823000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 824000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 825000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 484000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 825000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 825000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 15000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1300,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1800,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3500,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4500,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1800,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1650,
+   "Gender": 1,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3400,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 148000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 158000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 168000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 818000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 822000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 267000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 821000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 828000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 530,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 108000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 337000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 333000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 337000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 337000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 9000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 338000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 338000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 338000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 486000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 339000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 339000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 339000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 26000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 404000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 404000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 790,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 404000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 480,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 585000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 404000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 417000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 16900,
+   "Gender": 0,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 423000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1800,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 424000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 425000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 426000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 427000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 428000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 429000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 430000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 431000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 432000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 433000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1400,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 175000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 299000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4200,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 404000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2400,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 404000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 404000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 404000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2500,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 404000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2400,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 404000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 30000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 102000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5959,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 606000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 606000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 606000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 606000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 606000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 606000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 8000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 606000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 8000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4200,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4150,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4630,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5959,
+   "Gender": 1,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3848,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 8000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 8000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2500,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3200,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4200,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4150,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4630,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5959,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2500,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3200,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4200,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4150,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4630,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4400,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5959,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 9000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2500,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4200,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4150,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4630,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4400,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5959,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3848,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 8000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 8000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 9000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2300,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3200,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4200,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4150,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4630,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 988000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4400,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 110000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5959,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 110000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 111000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 111000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 111000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 112000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 112000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 112000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 112000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 113000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 114000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 114000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 114000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 114000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 114000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 114000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4200,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 114000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 114000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4300,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 114000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4150,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 115000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4630,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 115000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 115000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 116000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 116000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 116000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3848,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 116000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 8000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 116000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 8000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 116000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 162000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 162000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 162000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 162000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 9000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 162000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 162000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 163000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 163000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 163000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2500,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 163000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2300,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 163000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 164000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3100,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 164000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 164000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 164000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 164000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 164000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 165000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 165000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4200,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 165000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 165000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 165000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 30000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 971000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 972000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 500,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 200,
+   "Gender": 0,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 922000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 924000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 989000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 730000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 860,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 720000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 670000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 860,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 660000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2400,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 610000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4500,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 600000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 6800,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 590000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 9000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 580000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 860,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 570000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 470000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 460000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4500,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 450000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 6800,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 390000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 380000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 350000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 340000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4500,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 230000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 210000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 680,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 200000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1400,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 190000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 180000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 170000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 750,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 160000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 150000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 500,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 140000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 6500,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 750,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 750,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 250,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 6500,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1700,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3500,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 450,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 976000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3500,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 3500,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 850,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 850,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 234000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 972000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 952000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 850,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 942000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 932000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1600,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 922000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 850,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 912000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 822000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 812000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 802000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 850,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 792000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 762000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 752000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 742000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 732000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 800,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 722000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 712000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 6000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 702000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 5000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 692000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1900,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 642000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 612000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 552000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 4000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 542000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 500,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 532000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 650,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 522000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 482000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 600,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 472000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 392000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 500,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 282000000000,
+   "Rationcard_Category": 1,
+   "Monthly_Income": 10000,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 272000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 500,
+   "Gender": 1,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 182000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 172000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 2500,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 162000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 3000,
+   "Gender": 0,
+   "Chronic_Disease": 1,
+   "Critical _or _noncritical": 1,
+   "Surgery_needed": 1,
+   "Target": 1
+ },
+ {
+   "Aadhar_id": 289000000000,
+   "Rationcard_Category": 0,
+   "Monthly_Income": 1500,
+   "Gender": 1,
+   "Chronic_Disease": 0,
+   "Critical _or _noncritical": 0,
+   "Surgery_needed": 0,
+   "Target": 1
+ }
+]

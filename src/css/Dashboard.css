@@ -1,0 +1,61 @@
+.helpimg {
+  width: 650px;
+  height: 400px;
+  z-index: 10;
+  overflow: hidden;
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  animation: fade1 5s infinite;
+}
+@keyframes fade1 {
+  0% {
+    opacity: 0;
+  }
+  25% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1;
+  }
+  75% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.DashContainer {
+  height: 100%;
+}
+.slideshowcontainer {
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 2px 2px 2px rgb(170, 170, 170);
+  border-radius: 8px;
+}
+.loginLink1 {
+  color: black;
+}
+.btn {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.texthelp {
+  font-size: 25px;
+  color: rgb(70, 70, 70);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.textcontainer {
+  margin-left: 100px;
+  margin-top: 150px;
+  line-height: 40px;
+}
+.verticalLine {
+  width: 1px;
+  margin-top: 50px;
+  height: 300px;
+  background-color: rgb(219, 219, 219);
+}
