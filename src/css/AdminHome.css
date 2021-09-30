@@ -1,0 +1,33 @@
+.AdminContainer {
+  display: flex;
+}
+#table12 {
+  width: 1020px;
+  margin-left: 80px;
+  margin-top: 80px;
+}
+.show {
+  margin-left: 580px;
+  margin-bottom: 100px;
+}
+body {
+  counter-reset: Serial;
+}
+
+table {
+  border-collapse: separate;
+}
+
+tr td:first-child:before {
+  counter-increment: Serial;
+  content: counter(Serial);
+}
+#tab2 {
+  margin-left: 100px;
+  width: 950px;
+  margin-top: 50px;
+}
+.bdetails {
+  display: flex;
+  flex-direction: row;
+}

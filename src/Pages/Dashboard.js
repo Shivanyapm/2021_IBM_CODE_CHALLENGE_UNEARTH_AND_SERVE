@@ -48,7 +48,7 @@ class Dashboard extends React.Component {
                         < div className="textcontainer">
                             <div className="texthelp">"No act of kindness, no matter how small,<br /> is ever wasted"<br />
                             </div>
-                            <Link to='/Login' className="loginLink1"><button type="button" className="btn btn-secondary">Get Started!</button></Link>
+                            <Link to='/Signup' className="loginLink1"><button type="button" className="btn btn-secondary">Get Started!</button></Link>
                         </div>
                         <div className="verticalLine">
 

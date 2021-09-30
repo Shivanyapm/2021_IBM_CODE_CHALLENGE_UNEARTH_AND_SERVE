@@ -21,7 +21,7 @@ const About = () => {
                         <img src={img2} alt="abtimg" className="imagesabout" /></div>
                 </div>
                 <h1>Our Vision</h1>
-                Building a world where all communities have full access to good quality education and health, by providing them the financial help they need with the contribution of public-spirited civilians.
+                Building a world where all communities have full access to good quality education and health, by providing them the financial help they need with the contribution of public-spirited community.
                 <br /><br />  <h1>Our Mission</h1>
                 To work with communities to increase income, improve education, care for their health, and ultimately increasing harmony in this world.
             </div>
