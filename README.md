@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# IBM-HACKATHON-SEPTEMBER-2021
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the implementation of "Health and Education Support System in Rural areas" by combining the techniques of Machine Learning and Web Application.
 
-## Available Scripts
+Outline of the project
 
-In the project directory, you can run:
+Develop a Web-app for Health and Education Support system in rural areas in Kerala.
 
-### `yarn start`
+Identify the Rural areas and list them in the Application.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Collect the details of residents in the particular area from a Person of Contact (PoC) in that area. The number of families, each family member Aadhar details(UID, Age), Ration card for income details, Details of students from the local school for supporting their higher education, details of patients from the nearest hospital(prepare a separate dataset for both education and health).
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Perform supervised learning on the dataset to train the model according to existing dataset.
 
-### `yarn test`
+Import the JSON file to the web-app for automation.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+List the needy persons' details in an encrypted format (hashing) under both categories.
 
-### `yarn build`
+Administrators' calculate the expected fund for each category according to Expert opinion.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Invite sponsors to support - the first level will be through social media. We are focusing more on CSR funds in industries.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The needy persons will be intimated through the Person of Contact.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Future scope: Implement crowd funding to help needy persons as early as possible especially those who are suffering due to health issues. Transparency of crowd funding can be made sure by using a generic block chain framework.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
