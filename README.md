@@ -19,7 +19,7 @@
 
 4. Sreekutty S Vinod - LBS Institute of Technology for Women, Thiruvananthapuram, Kerala
 
-5. V.Meenakshi - LBS Institute of Technology for Women, Thiruvananthapuram, Kerala
+5. V.Meenakshy - LBS Institute of Technology for Women, Thiruvananthapuram, Kerala
 
 ## Problem Statement 
 
