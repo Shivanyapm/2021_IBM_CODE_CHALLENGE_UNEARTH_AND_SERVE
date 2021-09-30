@@ -1,8 +1,10 @@
 # IBM-HACKATHON-SEPTEMBER-2021
 
-This repository contains the implementation of "UNEARTH AND SERVE-Health and Education Support System in Rural areas" by combining the techniques of Machine Learning and Web Application.
+# Problem Statement 
 
-Outline of the project
+This repository contains the implementation of " ## UNEARTH AND SERVE-Health and Education Support System in Rural areas " by combining the techniques of Machine Learning and Web Application.
+
+# Outline of the project
 
 Develop a Web-app for Health and Education Support system in rural areas in Kerala.
 
